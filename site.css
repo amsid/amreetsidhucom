@@ -47,7 +47,7 @@ nav {
 
 main {
     flex-grow: 1;
-    border: 1px solid white;
+    /*border: 1px solid white;*/
 }
 
 footer {
